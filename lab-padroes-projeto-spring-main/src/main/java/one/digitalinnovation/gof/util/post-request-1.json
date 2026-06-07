@@ -1,0 +1,21 @@
+{
+	"cliente": {
+		"id": 1,
+		"nome": "João Silva",
+		"endereco": [
+			{
+                "id": 1,
+				"cep": "01234-567",
+				"logradouro": "Rua das Flores",
+				"complemento": "Apto 45",
+				"bairro": "Jardim",
+				"localidade": "São Paulo",
+				"uf": "SP",
+				"ibge": "",
+				"gia": "",
+				"ddd": "11",
+				"siafi": ""
+			}
+		]
+	}
+}
